@@ -1,6 +1,7 @@
 # guide_widget
 
 guide_widget is a new Flutter widget,which support you customization whatever you want.
+2022.11.10 将仓库属性由private改为public
 
 ## Getting Started
 
